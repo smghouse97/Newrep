@@ -1,6 +1,6 @@
 
 
-## Hey <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, I'm [Mohammed!](https://bio.link/kunalk) 
+## Hey <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, I'm [Mohammed Ghouse!](https://bio.link/kunalk) 
 
 <a href="https://www.linkedin.com/in/md-ghouse97">
   <img align="left" width="24px" src="https://cdn-icons-png.flaticon.com/512/174/174857.png"  />
